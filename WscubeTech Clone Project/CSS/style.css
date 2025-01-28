@@ -1,0 +1,76 @@
+*{
+    font-family: "Inter", serif;
+}
+.whatsappbtn{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color:#27AE60;
+    font-size: 16px;
+}
+.whatsappbtn:hover{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color:#27AE60;
+}
+.whatsappbtn i{
+    color:#27AE60;
+}
+.callbtn{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    color: white;
+}
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.bannerContent h1 span{
+    color:#2699FB;
+    background: url("../Images/digitalMarketing-background.png") no-repeat bottom;
+}
+.bannerContent p{
+    font-size: 22px;
+}
+
+.bannerContent ul{
+    list-style: none;
+}
+.bannerContent i{
+    color: #2699FB;
+}
+.bannerContent li{
+    font-size: 22px;
+}
+.bannerContentBtn button{
+    padding: 10px 0px;
+    border-radius: 10px;
+    width: 50%;
+}
+.bannerContentBtn button:first-child{
+    color: white;
+    border: none;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+}
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerForm button{
+    width: 100%;
+    padding: 9px 9px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to right,#0ACEFE,#2699FB);
+    ;
+}
+.counterSection h2{
+    font-size: 30px;
+    font-weight:700 ;
+    color:#2699FB;
+}
+
+
